@@ -16,3 +16,10 @@ text-align:center;
 .res{
 border-style:solid;
 }
+.btnround{
+    border-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
